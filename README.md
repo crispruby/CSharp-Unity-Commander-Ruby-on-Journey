@@ -29,12 +29,6 @@ The game can be played from the browser:
 - **Itch.io**: https://captain-garneto.itch.io/commander
 - **Unity Play**: https://play.unity.com/en/games/45e3545c-0565-4274-ba29-a1f34d22a69e/commander-rubys-journeys
 
-## How to Run
-
-1. Open the project in Unity (version 2020.3.39)
-2. Load the main scene
-3. Press Play to start the game
-
 ## Notes
 
 This project is a Unity game prototype built for learning and experimentation with C# scripting and basic game mechanics.
