@@ -2,11 +2,11 @@
 
 A 3D platformer game built with Unity and C# scripting. Play as Commander Ruby on a space station adventure, collecting keystones to unlock doors and find hidden gems while battling enemies.
 
-## Gameplay
+## Gameplay 🚀
 
 Player's avatar is a Commander character who is searching for the keystones to unlock the doors and find the gems hidden on the space station. Watch out for enemies that shoot, or jump over the enemies to defeat them.
 
-## Features
+## Features ✨
 
 - 3D platformer gameplay
 - Enemy combat system
@@ -14,7 +14,7 @@ Player's avatar is a Commander character who is searching for the keystones to u
 - Gem collection objectives
 - Space station environment
 
-## Controls
+## Controls 🎮
 
 - `Up Arrow`: Move Forward.
 - `Down Arrow`: Move Back.
@@ -22,18 +22,18 @@ Player's avatar is a Commander character who is searching for the keystones to u
 - `Right Arrow`: Move right.
 - `Spacebar`: Jump Upward.
 
-## Web Builds
+## Web Builds 🌐
 
 The game can be played from the browser:
 
 - **Itch.io**: https://captain-garneto.itch.io/commander
 - **Unity Play**: https://play.unity.com/en/games/45e3545c-0565-4274-ba29-a1f34d22a69e/commander-rubys-journeys
 
-## Notes
+## Notes 📘
 
 This project is a Unity game prototype built for learning and experimentation with C# scripting and basic game mechanics.
 
-## Author
+## Author 👤
 
 **Daniel Anthony Rozek**
 
@@ -41,6 +41,6 @@ This project is a Unity game prototype built for learning and experimentation wi
 - LinkedIn: https://www.linkedin.com/in/danielrozek/
 - GitHub: https://github.com/crispruby
 
-## License
+## License 📄
 
 This project is open-source and available for educational and portfolio purposes.
