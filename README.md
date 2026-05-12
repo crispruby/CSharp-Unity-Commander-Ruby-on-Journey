@@ -26,8 +26,8 @@ Player's avatar is a Commander character who is searching for the keystones to u
 
 The game can be played from the browser:
 
-- **Itch.io**: https://captain-garneto.itch.io/commander
-- **Unity Play**: https://play.unity.com/en/games/45e3545c-0565-4274-ba29-a1f34d22a69e/commander-rubys-journeys
+- [**Itch Games**](https://captain-garneto.itch.io/commander)
+- [**Unity Play**](https://play.unity.com/en/games/45e3545c-0565-4274-ba29-a1f34d22a69e/commander-rubys-journeys)
 
 ## Notes 📘
 
@@ -37,9 +37,9 @@ This project is a Unity game prototype built for learning and experimentation wi
 
 **Daniel Anthony Rozek**
 
-- Portfolio: https://crispruby.github.io/
-- LinkedIn: https://www.linkedin.com/in/danielrozek/
-- GitHub: https://github.com/crispruby
+[**Portfolio**](https://crispruby.github.io/), 
+[**LinkedIn**](https://www.linkedin.com/in/danielrozek/), 
+[**GitHub**](https://github.com/crispruby)
 
 ## License 📄
 
