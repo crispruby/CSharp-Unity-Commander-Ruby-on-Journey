@@ -44,3 +44,8 @@ This project is a Unity game prototype built for learning and experimentation wi
 ## License 📄
 
 This project is open-source and available for educational and portfolio purposes.
+
+## Screenshot Gallery 📸
+
+<img src="images/Ruby'sJourneys1.png" width="100%">
+<img src="images/Ruby'sJourneys2.png" width="100%">
